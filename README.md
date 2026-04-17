@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:001219,40:005f73,100:0a9396&height=220&section=header&text=Alejandro&fontSize=72&fontColor=94d2bd&fontAlignY=45&fontFamily=Orbitron&desc=Systems%20Engineer%20·%20Cybersecurity%20·%20UI%2FUX&descAlignY=65&descSize=17&descColor=e9d8a6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0000,30:7f0000,65:cc3300,100:ff6600&height=240&section=header&text=AlejoM09&fontSize=72&fontColor=ffd166&fontAlignY=45&fontFamily=Orbitron&desc=Systems%20Engineer%20·%20Cybersecurity%20·%20UI%2FUX&descAlignY=65&descSize=17&descColor=ffb347&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -136,7 +136,7 @@ const alejandro = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0a9396,40:005f73,100:001219&height=140&section=footer&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6600,35:cc3300,70:7f0000,100:0d0000&height=150&section=footer&reversal=true" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=TU_USERNAME&label=Visitas+al+perfil&color=a78bfa&style=for-the-badge" alt="profile views"/>
 
