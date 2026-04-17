@@ -110,6 +110,7 @@ const alejandro = {
 |:---|:---|:---:|
 | Scrum Master | Scrum Alliance / Certiprof |  Vigente |
 | Ciberseguridad Avanzada | — |  Vigente |
+| Amazon AWS | — |  Vigente |
 
 ---
 
