@@ -23,6 +23,7 @@ const alejandro = {
   certificaciones: [
     "Scrum Master",
     "Ciberseguridad Avanzada"
+    "Amazon AWS"
   ],
   buscando:    "Prácticas profesionales en tecnología",
   filosofía:   "El código limpio no es un lujo, es una responsabilidad."
