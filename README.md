@@ -19,7 +19,7 @@ const alejandro = {
   rol:         "Estudiante de Ingeniería de Sistemas · 7° semestre",
   universidad: "Universidad de Ibagué",
   ubicación:   "Colombia 🇨🇴",
-  enfoque:     ["Ciberseguridad", "UI/UX", "Desarrollo de Software"],
+  enfoque:     ["Ciberseguridad", "UI/UX", "Desarrollo de Software, "Arquitectura de Software"],
   certificaciones: [
     "Scrum Master",
     "Ciberseguridad Avanzada"
