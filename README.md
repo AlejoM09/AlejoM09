@@ -6,34 +6,34 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas+en+formaci%C3%B3n+%F0%9F%8E%93;Scrum+Master+Certificado+%E2%9C%85;Especialista+en+Ciberseguridad+%F0%9F%94%90;Apasionado+por+UI%2FUX+%26+Dise%C3%B1o+%F0%9F%8E%A8;Construyendo+el+futuro+desde+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6600&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas+en+formacion;Scrum+Master+Certificado;Especialista+en+Ciberseguridad;Apasionado+por+UI%2FUX+%26+Diseno;Construyendo+el+futuro+desde+Colombia)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## Sobre mí
+## 👾 Sobre mí
 
 ```typescript
 const alejandro = {
   rol:         "Estudiante de Ingeniería de Sistemas · 7° semestre",
-  universidad: "Universidad de Ibagué",
+  universidad: "Universidad de Ibagué 🏛️",
   ubicación:   "Colombia 🇨🇴",
   enfoque:     ["Ciberseguridad", "UI/UX", "Desarrollo de Software"],
   certificaciones: [
-    "Scrum Master",
-    "Ciberseguridad Avanzada"
+    "Scrum Master ✅",
+    "Ciberseguridad Avanzada 🔐"
   ],
-  buscando:    "Prácticas profesionales en tecnología",
+  buscando:    "Prácticas profesionales en tecnología 🚀",
   filosofía:   "El código limpio no es un lujo, es una responsabilidad."
 };
 ```
 
 ---
 
-## Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
-### Lenguajes & Programación
+### 💻 Lenguajes & Programación
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,7 +45,7 @@ const alejandro = {
 
 </div>
 
-### UI/UX & Diseño
+### 🎨 UI/UX & Diseño
 <div align="center">
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -54,7 +54,7 @@ const alejandro = {
 
 </div>
 
-### Ciberseguridad
+### 🔐 Ciberseguridad
 <div align="center">
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -64,7 +64,7 @@ const alejandro = {
 
 </div>
 
-### Bases de Datos & Herramientas
+### 🗃️ Bases de Datos & Herramientas
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -75,7 +75,7 @@ const alejandro = {
 
 </div>
 
-### Metodologías & Gestión
+### ⚙️ Metodologías & Gestión
 <div align="center">
 
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
@@ -86,7 +86,7 @@ const alejandro = {
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -103,26 +103,26 @@ const alejandro = {
 
 ---
 
-## Certificaciones
+## 🏆 Certificaciones
 
-| Certificación | 🏢 Emisor | 📅 Estado |
+| 🏅 Certificación | 🏢 Emisor | 📅 Estado |
 |:---|:---|:---:|
 | Scrum Master | Scrum Alliance / Certiprof | ✅ Vigente |
 | Ciberseguridad Avanzada | — | ✅ Vigente |
 
 ---
 
-## Actualmente...
+## 🎯 Actualmente...
 
--  Cursando **7° semestre** de Ingeniería de Sistemas en la Universidad de Ibagué
--  En búsqueda activa de **prácticas profesionales** en tecnología
--  Profundizando en **seguridad ofensiva y defensiva**
--  Explorando las fronteras entre **código y diseño**
--  Aprendiendo sobre **arquitecturas de software** y buenas prácticas de desarrollo
+- 🎓 Cursando **7° semestre** de Ingeniería de Sistemas en la Universidad de Ibagué
+- 🔍 En búsqueda activa de **prácticas profesionales** en tecnología
+- 🛡️ Profundizando en **seguridad ofensiva y defensiva**
+- 🎨 Explorando las fronteras entre **código y diseño**
+- 📖 Aprendiendo sobre **arquitecturas de software** y buenas prácticas de desarrollo
 
 ---
 
-##  Contacto
+## 📬 Contacto
 
 <div align="center">
 
