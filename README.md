@@ -12,28 +12,28 @@
 
 ---
 
-## Sobre mí
+## 👾 Sobre mí
 
 ```typescript
 const alejandro = {
   rol:         "Estudiante de Ingeniería de Sistemas · 7° semestre",
-  universidad: "Universidad de Ibagué",
+  universidad: "Universidad de Ibagué 🏛️",
   ubicación:   "Colombia 🇨🇴",
   enfoque:     ["Ciberseguridad", "UI/UX", "Desarrollo de Software"],
   certificaciones: [
-    "Scrum Master",
-    "Ciberseguridad Avanzada"
+    "Scrum Master ✅",
+    "Ciberseguridad Avanzada 🔐"
   ],
-  buscando:    "Prácticas profesionales en tecnología",
+  buscando:    "Prácticas profesionales en tecnología 🚀",
   filosofía:   "El código limpio no es un lujo, es una responsabilidad."
 };
 ```
 
 ---
 
-## Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
-### Lenguajes & Programación
+### 💻 Lenguajes & Programación
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -45,7 +45,7 @@ const alejandro = {
 
 </div>
 
-### UI/UX & Diseño
+### 🎨 UI/UX & Diseño
 <div align="center">
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -54,7 +54,7 @@ const alejandro = {
 
 </div>
 
-### Ciberseguridad
+### 🔐 Ciberseguridad
 <div align="center">
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -64,7 +64,7 @@ const alejandro = {
 
 </div>
 
-### Bases de Datos & Herramientas
+### 🗃️ Bases de Datos & Herramientas
 <div align="center">
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -75,7 +75,7 @@ const alejandro = {
 
 </div>
 
-### Metodologías & Gestión
+### ⚙️ Metodologías & Gestión
 <div align="center">
 
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
@@ -86,49 +86,49 @@ const alejandro = {
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=7&theme=midnight-purple&border_radius=12&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlejoM09&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoM09&layout=compact&langs_count=7&theme=midnight-purple&border_radius=12&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USERNAME&theme=midnight-purple&hide_border=true&border_radius=12&background=0d1117&fire=A78BFA&ring=A78BFA&currStreakLabel=A78BFA)
+![GitHub Streak](https://streak-stats.demolab.com?user=AlejoM09&theme=midnight-purple&hide_border=true&border_radius=12&background=0d1117&fire=A78BFA&ring=A78BFA&currStreakLabel=A78BFA)
 
 </div>
 
 ---
 
-## Certificaciones
+## 🏆 Certificaciones
 
-| Certificación |  Emisor |  Estado |
+| 🏅 Certificación | 🏢 Emisor | 📅 Estado |
 |:---|:---|:---:|
-| Scrum Master | Scrum Alliance / Certiprof |  Vigente |
-| Ciberseguridad Avanzada | — |  Vigente |
+| Scrum Master | Scrum Alliance / Certiprof | ✅ Vigente |
+| Ciberseguridad Avanzada | — | ✅ Vigente |
 
 ---
 
-##  Actualmente...
+## 🎯 Actualmente...
 
--  Cursando **7° semestre** de Ingeniería de Sistemas en la Universidad de Ibagué
--  En búsqueda activa de **prácticas profesionales** en tecnología
--  Profundizando en **seguridad ofensiva y defensiva**
--  Explorando las fronteras entre **código y diseño**
--  Aprendiendo sobre **arquitecturas de software** y buenas prácticas de desarrollo
+- 🎓 Cursando **7° semestre** de Ingeniería de Sistemas en la Universidad de Ibagué
+- 🔍 En búsqueda activa de **prácticas profesionales** en tecnología
+- 🛡️ Profundizando en **seguridad ofensiva y defensiva**
+- 🎨 Explorando las fronteras entre **código y diseño**
+- 📖 Aprendiendo sobre **arquitecturas de software** y buenas prácticas de desarrollo
 
 ---
 
-##  Contacto
+## 📬 Contacto
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlejoM09)
 
 </div>
 
@@ -138,7 +138,7 @@ const alejandro = {
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6600,35:cc3300,70:7f0000,100:0d0000&height=150&section=footer&reversal=true" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USERNAME&label=Visitas+al+perfil&color=a78bfa&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=AlejoM09&label=Visitas+al+perfil&color=a78bfa&style=for-the-badge" alt="profile views"/>
 
 *"La ciberseguridad no es un producto, es un proceso."* — Bruce Schneier
 
