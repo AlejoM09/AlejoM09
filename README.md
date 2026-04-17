@@ -2,22 +2,21 @@
 
 💻 Estudiante de Ingeniería de Sistemas  
 📍 Ibagué, Colombia  
-🚀 Apasionado por el desarrollo web y backend  
+Apasionado por el desarrollo web y backend  
 
 ---
 
-## 🧠 Tecnologías que uso
+## Tecnologías que uso
 - JavaScript / TypeScript
 - Python
 - HTML / CSS
-- Vue / Node.js
+- Vue / Node.js / Next.js
 
 ---
 
-## 📌 Proyectos destacados
+## Proyectos destacados
 🔹 Portafolio Profesional  
 🔹 Arquitectura Front-Back  
-🔹 API Marvel (consumo de APIs)
 
 ---
 
@@ -27,5 +26,4 @@
 ---
 
 ## 📫 Contacto
-- ✉️ Tu correo
-- 💼 LinkedIn (si tienes)
+- ✉️ 9marinalejandro9@gmai.com
