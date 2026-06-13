@@ -16,7 +16,7 @@
 
 ```typescript
 const alejandro = {
-  rol:         "Estudiante de Ingeniería de Sistemas · 7° semestre",
+  rol:         "Estudiante de Ingeniería de Sistemas · 8° semestre",
   universidad: "Universidad de Ibagué",
   ubicación:   "Colombia 🇨🇴",
   enfoque:     ["Ciberseguridad", "UI/UX", "Desarrollo de Software, "Arquitectura de Software"],
